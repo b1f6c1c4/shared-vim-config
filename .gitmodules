@@ -1,0 +1,111 @@
+[submodule "ale"]
+	url = https://github.com/w0rp/ale
+	path = .vim/bundle/ale
+[submodule "apiblueprint.vim"]
+	url = https://github.com/kylef/apiblueprint.vim
+	path = .vim/bundle/apiblueprint.vim
+[submodule "ctrlp.vim"]
+	url = https://github.com/kien/ctrlp.vim
+	path = .vim/bundle/ctrlp.vim
+[submodule "dockerfile.vim"]
+	url = https://github.com/ekalinin/dockerfile.vim
+	path = .vim/bundle/dockerfile.vim
+[submodule "editorconfig-vim"]
+	url = https://github.com/editorconfig/editorconfig-vim
+	path = .vim/bundle/editorconfig-vim
+[submodule "html5.vim"]
+	url = https://github.com/othree/html5.vim
+	path = .vim/bundle/html5.vim
+[submodule "json5.vim"]
+	url = https://github.com/GutenYe/json5.vim
+	path = .vim/bundle/json5.vim
+[submodule "nerdcommenter"]
+	url = https://github.com/scrooloose/nerdcommenter
+	path = .vim/bundle/nerdcommenter
+[submodule "nerdtree"]
+	url = https://github.com/scrooloose/nerdtree
+	path = .vim/bundle/nerdtree
+[submodule "nginx.vim"]
+	url = https://github.com/vim-scripts/nginx.vim
+	path = .vim/bundle/nginx.vim
+[submodule "taboo.vim"]
+	url = https://github.com/gcmt/taboo.vim
+	path = .vim/bundle/taboo.vim
+[submodule "tabular"]
+	url = https://github.com/godlygeek/tabular
+	path = .vim/bundle/tabular
+[submodule "vim-abolish"]
+	url = https://github.com/tpope/vim-abolish
+	path = .vim/bundle/vim-abolish
+[submodule "vim-airline"]
+	url = https://github.com/bling/vim-airline
+	path = .vim/bundle/vim-airline
+[submodule "vim-airline-themes"]
+	url = https://github.com/vim-airline/vim-airline-themes
+	path = .vim/bundle/vim-airline-themes
+[submodule "vim-ansible-yaml"]
+	url = https://github.com/chase/vim-ansible-yaml
+	path = .vim/bundle/vim-ansible-yaml
+[submodule "vim-barbaric"]
+	url = https://github.com/rlue/vim-barbaric
+	path = .vim/bundle/vim-barbaric
+[submodule "vim-commentary"]
+	url = https://github.com/tpope/vim-commentary
+	path = .vim/bundle/vim-commentary
+[submodule "vim-easyclip"]
+	url = https://github.com/svermeulen/vim-easyclip
+	path = .vim/bundle/vim-easyclip
+[submodule "vim-easymotion"]
+	url = https://github.com/easymotion/vim-easymotion
+	path = .vim/bundle/vim-easymotion
+[submodule "vim-graphql"]
+	url = https://github.com/jparise/vim-graphql
+	path = .vim/bundle/vim-graphql
+[submodule "vim-haskell-indent"]
+	url = https://github.com/itchyny/vim-haskell-indent
+	path = .vim/bundle/vim-haskell-indent
+[submodule "vim-indent-guides"]
+	url = https://github.com/valloric/vim-indent-guides
+	path = .vim/bundle/vim-indent-guides
+[submodule "vim-javascript"]
+	url = https://github.com/pangloss/vim-javascript
+	path = .vim/bundle/vim-javascript
+[submodule "vim-jsx"]
+	url = https://github.com/mxw/vim-jsx
+	path = .vim/bundle/vim-jsx
+[submodule "vim-jsx-typescript"]
+	url = https://github.com/peitalin/vim-jsx-typescript
+	path = .vim/bundle/vim-jsx-typescript
+[submodule "vim-markdown"]
+	url = https://github.com/tpope/vim-markdown
+	path = .vim/bundle/vim-markdown
+[submodule "vim-markdown-folding"]
+	url = https://github.com/nelstrom/vim-markdown-folding
+	path = .vim/bundle/vim-markdown-folding
+[submodule "vim-misc"]
+	url = https://github.com/xolox/vim-misc
+	path = .vim/bundle/vim-misc
+[submodule "vim-repeat"]
+	url = https://github.com/tpope/vim-repeat
+	path = .vim/bundle/vim-repeat
+[submodule "vim-sensible"]
+	url = https://github.com/tpope/vim-sensible
+	path = .vim/bundle/vim-sensible
+[submodule "vim-slime"]
+	url = https://github.com/jpalardy/vim-slime
+	path = .vim/bundle/vim-slime
+[submodule "vim-surround"]
+	url = https://github.com/tpope/vim-surround
+	path = .vim/bundle/vim-surround
+[submodule "vim-toml"]
+	url = https://github.com/cespare/vim-toml
+	path = .vim/bundle/vim-toml
+[submodule "vim-trailing-whitespace"]
+	url = https://github.com/bronson/vim-trailing-whitespace
+	path = .vim/bundle/vim-trailing-whitespace
+[submodule "vim-visual-increment"]
+	url = https://github.com/triglav/vim-visual-increment
+	path = .vim/bundle/vim-visual-increment
+[submodule "vim-wordmotion"]
+	url = https://github.com/chaoren/vim-wordmotion
+	path = .vim/bundle/vim-wordmotion
