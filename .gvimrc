@@ -1,0 +1,2 @@
+color ir_black_inv
+colorscheme ir_black_inv
