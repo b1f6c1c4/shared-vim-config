@@ -1,5 +1,5 @@
 [submodule "ale"]
-	url = https://github.com/w0rp/ale
+	url = https://github.com/dense-analysis/ale
 	path = .vim/bundle/ale
 [submodule "apiblueprint.vim"]
 	url = https://github.com/kylef/apiblueprint.vim
